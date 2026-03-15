@@ -1,8 +1,8 @@
 # agency-agents 中文版（AI 智能體專家團隊）繁體中文
 
-🌐 [English (upstream)](https://github.com/msitarzewski/agency-agents) | [简体中文](README.md) | **繁體中文**
+🌐 [English (upstream)](https://github.com/msitarzewski/agency-agents) | [簡體中文](README.md) | **繁體中文**
 
-> **你的 AI 夢之隊** — 從前端開發到區塊鏈安全，從小紅書運營到抖音策略，每個智能體都是一位擁有獨特個性、專業流程和可交付成果的專家。
+> **你的 AI 夢之隊** — 從前端開發到區塊鏈安全，從小紅書運營到抖音策略，每個智慧體都是一位擁有獨特個性、專業流程和可交付成果的專家。
 
 Chinese community edition of [agency-agents](https://github.com/msitarzewski/agency-agents), including full translations and China-platform specific AI agents (Xiaohongshu, Douyin, WeChat, Bilibili, etc.).
 
